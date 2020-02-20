@@ -3,6 +3,7 @@
   "name": "gwitblue-dark",
   "displayName": "gwitBlue Dark",
   "description": "easy on the eyes dark theme",
+  "repository": "https://github.com/giosifelis/gwitBlue-Dark.git",
   "version": "0.2.0",
   "engines": {
     "vscode": "^1.42.0"
