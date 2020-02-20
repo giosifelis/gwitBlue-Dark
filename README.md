@@ -10,4 +10,16 @@
 4. Click Reload to reload your editor
 5. Code > Preferences > Color Theme > gwitBlue Dark
 
+Javascript:
+
+![javascript](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/javascript.png)
+Css:
+
+![css](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/css.png)
+Css:
+
+![css](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/css.png)
+
+
+
 **Enjoy!**
