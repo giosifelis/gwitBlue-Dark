@@ -1,0 +1,22 @@
+{
+  "publisher": "gwitVsCode",
+  "name": "gwitblue-dark",
+  "displayName": "gwitBlue Dark",
+  "description": "easy on the eyes dark theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gwitBlue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gwitBlue Dark-color-theme.json"
+      }
+    ]
+  }
+}
