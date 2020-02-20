@@ -13,13 +13,13 @@
 Javascript:
 
 ![javascript](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/javascript.png)
+
 Css:
 
 ![css](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/css.png)
-Css:
 
-![css](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/css.png)
+Html:
 
-
+![css](https://raw.githubusercontent.com/giosifelis/gwitBlue-Dark/master/html.png)
 
 **Enjoy!**
